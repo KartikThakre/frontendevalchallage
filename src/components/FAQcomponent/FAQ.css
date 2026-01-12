@@ -1,0 +1,13 @@
+.faq-section{
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ddd;
+}
+
+.faq-item{
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
