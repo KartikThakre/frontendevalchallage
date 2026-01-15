@@ -1,0 +1,22 @@
+.timer-inputs{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;  
+    padding: auto;
+    width: 200px;
+}
+
+.timer-input{
+    width: 30px;
+    text-align: center;
+}
+
+.timer-button{
+    padding: 10px 20px;
+    background-color: #2c81cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
