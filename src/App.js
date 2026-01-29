@@ -3,6 +3,8 @@ import Modal from './components/ModalOverlay/Modal';
 import './App.css';
 import Calculator from './components/Calculator/Calculator';
 import CountDownTimer from './components/CountDownTimer/CountDownTimer';
+import UndoCounter from './components/UndoableCounter/UndoCounter';
+import MultiStepForm from './components/MultiStepForm/MultiStepForm';
 
 function App() {
   return (
@@ -11,7 +13,9 @@ function App() {
      {/* <Modal /> */}
      {/* <Array /> */}
      {/* < Calculator /> */}
-     <CountDownTimer />
+     {/* <CountDownTimer /> */}
+     {/* <UndoCounter /> */}
+     <MultiStepForm />
     </div>
   );
 }
